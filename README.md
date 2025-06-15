@@ -1,7 +1,5 @@
 <!-- En üstte sadece tek bir resim/banner koymak için -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Banner" width="800" />
-</p>
+![Header](./header.png)
 
 <h1 align="center">Hi 👋, I'm Ravan</h1>
 <h3 align="center">.NET Backend Developer | C# Enthusiast | Onion Architecture Follower</h3>
@@ -51,10 +49,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavanGuliyeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="65%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavanGuliyeff&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=RavanGuliyeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="65%" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavanGuliyeff&layout=compact&theme=tokyonight&hide_border=true" width="30%" style="vertical-align: top;" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=RavanGuliyeff&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
