@@ -11,6 +11,9 @@
 - 🧠 I'm focused on Onion Architecture, Entity Framework, and scalable REST APIs
 - 🤝 Open to collaborate on backend projects and architecture discussions
 - 📫 Let's connect:  
+
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ravan-guliyev-72535735b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -52,6 +55,12 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+
+<div align="center">
+  
+![myfile](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
+</div>
 
 ---
 
