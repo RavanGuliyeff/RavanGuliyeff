@@ -92,7 +92,6 @@
 
 <!-- ![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg) -->
 
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%"/>
 ## GitHub Contribution Snake
 
 ### Default Snake
@@ -103,4 +102,34 @@
 
 ### Ocean Theme Snake
 <img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/ocean.svg" alt="GitHub Ocean Contribution Snake" width="100%"/>
+
+### Retro Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/retro-snake.svg" alt="GitHub Retro Contribution Snake" width="100%"/>
+
+### Game Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>
+
+### Developer Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
+
+### Forest Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/forest-snake.svg" alt="GitHub Forest Contribution Snake" width="100%"/>
+
+### Cosmic Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/cosmic-snake.svg" alt="GitHub Cosmic Contribution Snake" width="100%"/>
+
+### Sunset Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/sunset-snake.svg" alt="GitHub Sunset Contribution Snake" width="100%"/>
+
+### Cyber Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/cyber-snake.svg" alt="GitHub Cyber Contribution Snake" width="100%"/>
+
+### Desert Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/desert-snake.svg" alt="GitHub Desert Contribution Snake" width="100%"/>
+
+### Ocean Depth Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/ocean-depth-snake.svg" alt="GitHub Ocean Depth Contribution Snake" width="100%"/>
+
+### Aurora Style Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/>
 <!-- ![snake gif](https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-contribution-grid-snake.svg) -->
