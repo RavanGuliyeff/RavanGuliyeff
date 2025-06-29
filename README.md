@@ -93,5 +93,14 @@
 <!-- ![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg) -->
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%"/>
+## GitHub Contribution Snake
 
+### Default Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+### Dark Theme Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-snake-dark.svg" alt="GitHub Dark Contribution Snake" width="100%"/>
+
+### Ocean Theme Snake
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/ocean.svg" alt="GitHub Ocean Contribution Snake" width="100%"/>
 <!-- ![snake gif](https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-contribution-grid-snake.svg) -->
