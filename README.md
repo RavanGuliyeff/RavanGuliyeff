@@ -90,4 +90,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20+%20Code%20=%20Productivity;Code.%20Learn.%20Repeat.;Sleeping%20is%20for%20production%20environments;Improving%20one%20line%20of%20code%20at%20a%20time;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson;Focusing%20on%20SOLID%20principles;Coding...%20Debugging...%20Re-coding...;Building%20scalable%20APIs%20with%20C%23;Working%20on%20real-world%20backend%20systems&center=true&width=700&height=45&duration=3000&pause=1000" />
 </p>
 
-![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg) -->
+
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%"/>
+
+<!-- ![snake gif](https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-contribution-grid-snake.svg) -->
