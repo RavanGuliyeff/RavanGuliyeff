@@ -92,7 +92,12 @@
 
 <!-- ![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg) -->
 
-## GitHub Contribution Snake
+
+
+<!-- ### Developer Style Snake -->
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
+
+<!-- ## GitHub Contribution Snake
 
 ### Default Snake
 <img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
@@ -108,9 +113,6 @@
 
 ### Game Style Snake
 <img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/game-snake.svg" alt="GitHub Game Contribution Snake" width="100%"/>
-
-### Developer Style Snake
-<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/developer-snake.svg" alt="GitHub Developer Contribution Snake" width="100%"/>
 
 ### Forest Style Snake
 <img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/forest-snake.svg" alt="GitHub Forest Contribution Snake" width="100%"/>
@@ -131,5 +133,5 @@
 <img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/ocean-depth-snake.svg" alt="GitHub Ocean Depth Contribution Snake" width="100%"/>
 
 ### Aurora Style Snake
-<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/aurora-snake.svg" alt="GitHub Aurora Contribution Snake" width="100%"/> -->
 <!-- ![snake gif](https://raw.githubusercontent.com/RavanGuliyeff/RavanGuliyeff/output/github-contribution-grid-snake.svg) -->
