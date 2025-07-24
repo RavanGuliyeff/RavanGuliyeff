@@ -6,11 +6,13 @@
 
 ---
 
-- 🔭 I'm currently working on the backend of a project called **OtaqAz**  
-- 💬 My primary language is **C#**, and I'm building applications using the **.NET ecosystem**
-- 🧠 I'm focused on Onion Architecture, Entity Framework, and scalable REST APIs
-- 🤝 Open to collaborate on backend projects and architecture discussions
-- 📫 Let's connect:  
+- 🔭 Currently contributing to multiple **freelance backend projects** in the .NET ecosystem  
+- 👨‍🏫 Working as a **Mentor at Code Academy**, helping students master C# and backend development  
+- 💬 My core language is **C#**, and I specialize in building robust, scalable REST APIs using the **.NET stack**
+- 🧠 Passionate about **Onion Architecture**, **Entity Framework**, and clean code principles  
+- 🤝 Open to **collaborations** on backend-heavy projects, architectural planning, or mentoring opportunities  
+- 📫 Feel free to reach out and connect:
+
 
 
 
@@ -85,9 +87,23 @@
 ---
 
 ### ✨ A Touch of Personality
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20+%20Code%20=%20Productivity;Code.%20Learn.%20Repeat.;Sleeping%20is%20for%20production%20environments;Improving%20one%20line%20of%20code%20at%20a%20time;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson;Focusing%20on%20SOLID%20principles;Coding...%20Debugging...%20Re-coding...;Building%20scalable%20APIs%20with%20C%23;Working%20on%20real-world%20backend%20systems&center=true&width=700&height=45&duration=3000&pause=1000" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20+%20Code%20=%20Productivity;Still%20debugging%20on%20Friday%20night;Code.%20Learn.%20Repeat.;How%20to%20center%20a%20div%3F%20Nobody%20knows.;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson%20(and%20a%20story);Focusing%20on%20SOLID%20principles;Sleeping%20is%20for%20production%20environments;Building%20scalable%20APIs%20since%20the%20monolith%20era;Not%20all%20heroes%20use%20dark%20theme;%20%F0%9F%92%BB&center=true&width=700&height=45&duration=3000&pause=1000" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20%2B%20Code%20=%20Productivity;Still%20debugging%20on%20Friday%20night;Code.%20Learn.%20Repeat.;How%20to%20center%20a%20div%3F%20Nobody%20knows.;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson%20(and%20a%20story);Focusing%20on%20SOLID%20principles;Sleeping%20is%20for%20production%20environments;Building%20scalable%20APIs%20since%20the%20monolith%20era;Not%20all%20heroes%20use%20dark%20theme;%20%F0%9F%92%BB&center=true&width=700&height=45&duration=3000&pause=1000" />
+</p>
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20%2B%20Code%20=%20Productivity;Still%20debugging%20on%20Friday%20night;How%20to%20center%20a%20div%3F%20Nobody%20knows.;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson%20(and%20a%20story);Focusing%20on%20SOLID%20principles;Sleeping%20is%20for%20production%20environments;Building%20scalable%20APIs%20since%20the%20monolith%20era;Not%20all%20heroes%20use%20dark%20theme%20%F0%9F%92%BB;Async%20await%20or%20just%20callbacks%3F%20Guess%20who%20still%20debugs%3F;Refactoring%20is%20like%20cleaning%20your%20room%3A%20never%20done!&center=true&width=700&height=45&duration=3500&pause=1000" />
+</p>
+
 
 <!-- ![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg) -->
 
