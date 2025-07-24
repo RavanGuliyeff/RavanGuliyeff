@@ -99,11 +99,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20%2B%20Code%20=%20Productivity;Still%20debugging%20on%20Friday%20night;Code.%20Learn.%20Repeat.;How%20to%20center%20a%20div%3F%20Nobody%20knows.;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson%20(and%20a%20story);Focusing%20on%20SOLID%20principles;Sleeping%20is%20for%20production%20environments;Building%20scalable%20APIs%20since%20the%20monolith%20era;Not%20all%20heroes%20use%20dark%20theme;%20%F0%9F%92%BB&center=true&width=700&height=45&duration=3000&pause=1000" />
 </p>
--->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20%2B%20Code%20=%20Productivity;Still%20debugging%20on%20Friday%20night;How%20to%20center%20a%20div%3F%20Nobody%20knows.;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson%20(and%20a%20story);Focusing%20on%20SOLID%20principles;Sleeping%20is%20for%20production%20environments;Building%20scalable%20APIs%20since%20the%20monolith%20era;Not%20all%20heroes%20use%20dark%20theme%20%F0%9F%92%BB;Async%20await%20or%20just%20callbacks%3F%20Guess%20who%20still%20debugs%3F;Refactoring%20is%20like%20cleaning%20your%20room%3A%20never%20done!&center=true&width=700&height=45&duration=3500&pause=1000" />
 </p>
-
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET%20Backend%20Developer;Backend-first%2C%20always;Loves%20Onion%20Architecture%20%26%20Clean%20Code;Coffee%20%2B%20Code%20=%20Productivity;Still%20debugging%20on%20Friday%20night;How%20to%20center%20a%20div%3F%20Nobody%20knows.;C%23%20%3E%20Java%20(let's%20not%20argue%20%F0%9F%98%84);Still%20waiting%20for%20AI%20to%20write%20bug-free%20code;Every%20bug%20is%20a%20lesson%20(and%20a%20story);Focusing%20on%20SOLID%20principles;Sleeping%20is%20for%20production%20environments;Building%20scalable%20APIs%20since%20the%20monolith%20era;Not%20all%20heroes%20use%20dark%20theme%20%F0%9F%92%BB;Async%20await%20or%20just%20callbacks%3F%20Guess%20who%20still%20debugs%3F;Refactoring%20is%20like%20cleaning%20your%20room%3A%20never%20done!;%22It%20works%20on%20my%20machine%22%20is%20not%20enough.&center=true&width=700&height=45&duration=3500&pause=1000" />
+</p>
 
 <!-- ![snake gif](https://github.com/RavanGuliyeff/RavanGuliyeff/blob/output/github-contribution-grid-snake.svg) -->
 
