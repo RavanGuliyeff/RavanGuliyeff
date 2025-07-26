@@ -6,7 +6,7 @@
 
 ---
 
-- 🔭 Currently contributing to multiple **freelance backend projects** in the .NET ecosystem  
+- 🔭 Currently contributing to multiple **freelance backend projects** in the .NET ecosystem.
 - 👨‍🏫 Working as a **Mentor at Code Academy**, helping students master C# and backend development  
 - 💬 My core language is **C#**, and I specialize in building robust, scalable REST APIs using the **.NET stack**
 - 🧠 Passionate about **Onion Architecture**, **Entity Framework**, and clean code principles  
